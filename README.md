@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2">
+  <a href="https://github.com/CaoHoangKiet222/Application-PetriNet">
     <img src="images/Animated_Petri_net_commons.gif" alt="Logo" width="320" height="177">
   </a>
 
@@ -12,9 +12,9 @@
     <a href="Petri_networks.pdf"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2/issues" target="_blank">Report Bug</a>
+    <a href="https://github.com/CaoHoangKiet222/Application-PetriNet/issues" target="_blank">Report Bug</a>
     ·
-    <a href="https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2/issues/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/CaoHoangKiet222/Application-PetriNet/issues/issues" target="_blank">Request Feature</a>
   </p>
 </div>
 
