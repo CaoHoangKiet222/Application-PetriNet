@@ -37,7 +37,8 @@ function CompileAndRunWithPackageFloat() {
   local PWD=$(GetPWD "$1")
   local class_javac=$(GetClassJavac "$1")
   package=$(grep "package" "$1" | awk '{print $2}' | sed 's/;//')
-  javac -d "../bin" "$PWD"/*.java && java -cp "../bin" "$package.$class_javac"
+  javac "$PWD"/*.java && java "$package.$class_javac"
+  rm -rf ./PetriNet/*.class ./specialistnetwork/*.class ./petri_net_Patients/*.class ./petri_net_modeling/*.class
 }
 
 CompileAndRunWithPackageFloat "$1"
